@@ -1,11 +1,11 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Minji's project
+description: Welcome to my blog
 baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: https://minji1208.github.io/
 
 # User settings
-username: lorem ipsum
+username: 김민지
 user_title: Lorem Ipsum - FrontEnd
 email: lorem.lorem@ipsum.com
 twitter_username: loremipsum
@@ -39,12 +39,6 @@ links:
     - title: series
       url: /series
       key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
-    - title: about me
-      url: /about
-      key_trigger: 5
   section_2:
     - title: github
       url: http://www.github.com/victorvoid
